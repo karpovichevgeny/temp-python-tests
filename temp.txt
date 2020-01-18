@@ -1,2 +1,7 @@
 Write you name here
 Karpievich Vadim
+
+  
+email = zhorova.karina@gmail.com
+	
+name = KarinaZhorova
